@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+
+onLoadName="RHS A&S Tanoa Jungle Fever";
+overviewPicture = "tb_loadingScreen.jpg";
+author="syntax (TacBF Team)";
+onLoadMission="Advance and Secure [S-10]. Jungle. Light vehicles; No FOs. CQB-SRP's";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
+#include "tb_vehicleMags.hpp"
